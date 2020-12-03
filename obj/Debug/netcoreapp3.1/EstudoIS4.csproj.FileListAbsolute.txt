@@ -209,7 +209,6 @@ D:\Git\EstudoIS4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 D:\Git\EstudoIS4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Git\EstudoIS4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Git\EstudoIS4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\EstudoIS4.csprojAssemblyReference.cache
 D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\EstudoIS4.AssemblyInfoInputs.cache
 D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\EstudoIS4.AssemblyInfo.cs
 D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\EstudoIS4.csproj.CoreCompileInputs.cache
@@ -250,3 +249,4 @@ D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\staticwebassets\EstudoIS4.StaticWebAsse
 D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\EstudoIS4.dll
 D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\EstudoIS4.pdb
 D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\EstudoIS4.genruntimeconfig.cache
+D:\Git\EstudoIS4\obj\Debug\netcoreapp3.1\EstudoIS4.csprojAssemblyReference.cache
